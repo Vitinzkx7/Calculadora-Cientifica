@@ -101,5 +101,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 
 Comunidade Python
+
+
 Documentação oficial do Tkinter
 
